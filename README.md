@@ -1,40 +1,94 @@
-# DevOps Monitoring Dashboard
+# 🚀 DevOps Monitoring Platform
 
-A real-time Docker monitoring platform built using React, Node.js, Express, Dockerode, and Tailwind CSS.
+A modern Docker container monitoring dashboard built with React, Node.js, Express, Dockerode, and Chart.js.
 
-## Features
+This platform provides real-time visibility into Docker containers, resource utilization, logs, alerts, and container lifecycle operations through a clean and responsive dashboard interface.
+
+---
+
+## 📸 Project Screenshots
+
+### Dashboard Overview
+
+![Dashboard](docs/dashboard.jpeg)
+
+### Containers & Details
+
+![Containers](docs/containers_&_details.jpeg)
+
+### Container Details
+
+![Container Details](docs/container_details.jpeg)
+
+### Container Logs
+
+![Container Logs](docs/container_logs.jpeg)
+
+---
+
+## ✨ Features
 
 * Real-time Docker container monitoring
-* Start, Stop and Restart containers
-* Container logs viewer
-* Docker host information
-* CPU and Memory monitoring
-* Network statistics
-* Search containers
-* Alert management
+* CPU usage tracking
+* Memory utilization monitoring
+* Network RX/TX statistics
+* Container lifecycle management
 
-## Tech Stack
+  * Start
+  * Stop
+  * Restart
+* Container details viewer
+* Container logs viewer
+* Alerts monitoring
+* Search and filtering functionality
+* Responsive dashboard design
+
+---
+
+## 🛠 Tech Stack
 
 ### Frontend
 
 * React
 * Vite
 * Tailwind CSS
+* Chart.js
+* React Icons
 
 ### Backend
 
 * Node.js
-* Express
+* Express.js
 * Dockerode
 
-### Infrastructure
+### DevOps & Tools
 
-* Docker Engine API
+* Docker
+* Git
+* GitHub
+* Vercel
 
-## Project Status
+---
 
-Completed and under active enhancement.
+## 🏗 Architecture
 
-## Author
+Docker Engine → Express API → React Dashboard
 
-Aditya
+---
+
+## 🚀 Future Enhancements
+
+* Prometheus Integration
+* Grafana Dashboards
+* Historical Metrics Storage
+* Authentication & Authorization
+* Kubernetes Monitoring
+* WebSocket-based Live Updates
+
+---
+
+## 👨‍💻 Author
+
+Aditya Desai
+
+GitHub: https://github.com/adidesai43453
