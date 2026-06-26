@@ -5,7 +5,7 @@ A modern Docker container monitoring dashboard built with React, Node.js, Expres
 ## Live Demo
 
 Frontend Deployment:
-https://your-vercel-url.vercel.app
+(https://devops-monitoring-platform-v84c.vercel.app/)
 
 
 This platform provides real-time visibility into Docker containers, resource utilization, logs, alerts, and container lifecycle operations through a clean and responsive dashboard interface.
